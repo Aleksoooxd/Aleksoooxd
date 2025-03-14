@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi:):
 🤓 CS student at ZUT<br>🐍 Python->CPP>Java<br>😅 ML/Api wrappers/AutoGUI Tego typu sprawy
 
 
